@@ -4,7 +4,8 @@ metadata:
   name: eShopOnWeb
   annotations:
     github.com/project-slug: leandrofrs/eShopOnWeb
+    backstage.io/techdocs-ref: dir:.
 spec:
-  type: other
-  lifecycle: unknown
+  type: website
+  lifecycle: production
   owner: guests
